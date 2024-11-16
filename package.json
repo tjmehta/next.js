@@ -50,7 +50,7 @@
     "babel-preset-es2015": "6.16.0",
     "babel-preset-react": "6.16.0",
     "babel-runtime": "6.11.6",
-    "cross-spawn": "4.0.2",
+    "cross-spawn": "7.0.5",
     "del": "2.2.2",
     "glamor": "2.17.10",
     "glob-promise": "1.0.6",
